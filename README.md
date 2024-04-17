@@ -6,3 +6,10 @@
 * Hugo Vasconcelos
 * Giovanni Santos
 * Douglas Oliveira
+
+## Justificativa Dataset
+
+### Análise Exploratória
+### Dicionário de Dados
+
+
