@@ -11,6 +11,11 @@
   
 ### Análise Exploratória
 
+| Descrição | Valor |
+|-----------|-------|
+| Quantidade de Registros | 459713 |
+| Variáveis Disponíveis | 8 |
+
 ### Dicionário de Dados
 
 | Campo | Descrição | Tipo | Tamanho |
