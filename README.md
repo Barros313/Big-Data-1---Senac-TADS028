@@ -7,6 +7,13 @@
 - Giovanni Santos
 - Douglas Oliveira
 
+## 📁 Diretórios
+
+|Entrega|Pasta|Descrição|
+|-|-|-|
+|1a Unidade|[/sqlite](https://github.com/Barros313/Big-Data-1---Senac-TADS028/tree/main/sqlite)| Análise do dataset utilizando sqlite e pandas |
+|2a Unidade|[/pyspark](https://github.com/Barros313/Big-Data-1---Senac-TADS028/tree/main/pyspark)|Análise do dataset utilizando pyspark|
+
 ## 📊 Sobre o Dataset
 
 Este banco de dados tem grande importância para o tráfego e a segurança da região de Recife. Estudando estes dados podemos ter benefícios como:
